@@ -1,7 +1,7 @@
 import "./style.scss";
 import { Container } from "@containers";
 
-const index = (clas:string) => {
+const index = (clas:any) => {
   return (
     <footer className="pb-[50px]">
       <Container>
