@@ -4,5 +4,6 @@ import Model_x from './model-x'
 import Model_y from './model-y'
 import Solar_panels from './solar-panels'
 import Solar_roof from './solar-roof'
+import ErrorPage from './errorpage'
 
-export {Model_3, Model_x, Model_y, Model_s, Solar_panels, Solar_roof}
+export {Model_3, Model_x, Model_y, Model_s, Solar_panels, Solar_roof, ErrorPage}

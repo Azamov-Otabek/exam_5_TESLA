@@ -28,7 +28,7 @@ const index = () => {
             <NavLink className="text-white font-medium text-[16px] py-[4px] px-[16px] border-[2px] border-[#00000000]" to={"/solar_panels"}>Solar Panels</NavLink>
           </ul>
           <div className="flex justify-between gap-[63px]">
-            <button className="bg-[#F4FBFF1A] rounded-[85px] py-[10px] px-[47px] flex items-center gap-5 text-white font-medium">
+            <button className="bg-[#F4FBFF1A] rounded-[85px] py-[10px] px-[47px] flex items-center gap-2 text-white font-medium">
               <i className="bx bx-search-alt-2 text-white"></i>
               Search
             </button>
